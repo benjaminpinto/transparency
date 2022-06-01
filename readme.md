@@ -1,6 +1,6 @@
 # E2E and API tests at public transparency reports of Labor Court of 13th Region
 
-![CI](https://github.com/benjaminpinto/transparency/actions/workflows/main.yml/badge.svg)
+![Cypress Tests](https://github.com/benjaminpinto/transparency/actions/workflows/main.yml/badge.svg)
 
 This project uses the brand new Cypress 10 to automatize API and E2E tests upon public transparency reports published by the Labor Court of 13th Region. All reports are publicly available on its [transparency page](https://www.trt13.jus.br/contaspublicasng/#/dashboard).
 
@@ -19,6 +19,10 @@ After clone the project, run `npm install` (or `npm i` for the short version) to
 Run `npm test` (or `npm t` for the short version) to run the test in headless mode.
 
 Or, run `npm run cy:open` to open Cypress in interactive mode.
+
+## CI
+
+A simple CI workflow was created for this projects using Github actions. You can read more about it at [Cypress.io github-action project](https://github.com/cypress-io/github-action).
 
 ## About the tests
 

@@ -1,12 +1,11 @@
-describe('Testes nos principais endpoints utilizados', () => {
-
-  it('Verifica o ambiente (PRD/HML)', () => {
+describe('Availability test of main endpoints', () => {
+  it('Verify environment (PRD/HML)', () => {
     cy.verificaEndpoint('../contaspublicasback/ambiente/verificaAmbiente')
       .its('body')
       .should('be.false')
   })
 
-  it('Verifica a versão da aplicação', () => {
+  it("Verify app' version", () => {
     cy.verificaEndpoint('../contaspublicasback/info/')
   })
 
