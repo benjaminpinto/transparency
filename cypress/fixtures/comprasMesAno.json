@@ -1,0 +1,322 @@
+[
+  {
+    "idEntrada": "7536",
+    "nmProcesso": "26103",
+    "cdCNPJ": "06087246/0001-29",
+    "dsNomeFantasia": "PRINTERTEC",
+    "vlTotal": 1980.0,
+    "nmEmpenho": "508",
+    "nmAnoEmpenho": "2021",
+    "nmAnoProcesso": "2021",
+    "dtEntrada": 1643079600000,
+    "dtNotaFiscal": 1642561200000,
+    "nuAno": "2022",
+    "nuMes": "1",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154170",
+        "cdMaterial": "3017190",
+        "dsDescricaoAbreviada": "Rolete fujitsu fi-6130/fi-6140",
+        "qtItemEntrada": "20",
+        "vlUnitario": 99.0,
+        "vlTotal": 1980.0
+      }
+    ]
+  },
+  {
+    "idEntrada": "7539",
+    "nmProcesso": "19600",
+    "cdCNPJ": "01259682/0001-14",
+    "dsNomeFantasia": "GIGA BYTE",
+    "vlTotal": 9458.3,
+    "nmEmpenho": "417",
+    "nmAnoEmpenho": "2021",
+    "nmAnoProcesso": "2021",
+    "dtEntrada": 1644807600000,
+    "dtNotaFiscal": 1642129200000,
+    "nuAno": "2022",
+    "nuMes": "1",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154178",
+        "cdMaterial": "3017188",
+        "dsDescricaoAbreviada": "Memoria Ram 32 GB hP registrada 2666 Mhz",
+        "qtItemEntrada": "5",
+        "vlUnitario": 1891.66,
+        "vlTotal": 9458.3
+      }
+    ]
+  },
+  {
+    "idEntrada": "7542",
+    "nmProcesso": "19774",
+    "cdCNPJ": "36544630/0001-74",
+    "dsNomeFantasia": "BEC BOOKS",
+    "vlTotal": 125.28,
+    "nmEmpenho": "513",
+    "nmAnoEmpenho": "2021",
+    "nmAnoProcesso": "2021",
+    "dtEntrada": 1645412400000,
+    "dtNotaFiscal": 1643338800000,
+    "nuAno": "2022",
+    "nuMes": "1",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154182",
+        "cdMaterial": "3046011",
+        "dsDescricaoAbreviada": "A Eficacia dos direitos fundamentais. 13.ed",
+        "qtItemEntrada": "1",
+        "vlUnitario": 125.28,
+        "vlTotal": 125.28
+      }
+    ]
+  },
+  {
+    "idEntrada": "7540",
+    "nmProcesso": "19600",
+    "cdCNPJ": "01259682/0001-14",
+    "dsNomeFantasia": "GIGA BYTE",
+    "vlTotal": 12499.98,
+    "nmEmpenho": "417",
+    "nmAnoEmpenho": "2021",
+    "nmAnoProcesso": "2021",
+    "dtEntrada": 1644807600000,
+    "dtNotaFiscal": 1644202800000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154179",
+        "cdMaterial": "3017189",
+        "dsDescricaoAbreviada": "Memoria lenovo Ram HP 32 GB ECC 2666 MHZ MOD. 7x77A01304 ",
+        "qtItemEntrada": "6",
+        "vlUnitario": 2083.33,
+        "vlTotal": 12499.98
+      }
+    ]
+  },
+  {
+    "idEntrada": "7545",
+    "nmProcesso": "29707",
+    "cdCNPJ": "21613964/0001-85",
+    "dsNomeFantasia": "JOALISSON DE ALMEIDA GOMES 01394251440",
+    "vlTotal": 1358.88,
+    "nmEmpenho": "156",
+    "nmAnoEmpenho": "2022",
+    "nmAnoProcesso": "2021",
+    "dtEntrada": 1645671600000,
+    "dtNotaFiscal": 1645585200000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154215",
+        "cdMaterial": "3029009",
+        "dsDescricaoAbreviada": "Anel de luz de mesa 16 cm usb c/ tripe com iluminador de led.",
+        "qtItemEntrada": "1",
+        "vlUnitario": 49.99,
+        "vlTotal": 49.99
+      },
+      {
+        "idItemEntrada": "154216",
+        "cdMaterial": "3029010",
+        "dsDescricaoAbreviada": "Anel de luz grande com led 36 cm profissional c/tripe 2.1 m",
+        "qtItemEntrada": "1",
+        "vlUnitario": 239.99,
+        "vlTotal": 239.99
+      },
+      {
+        "idItemEntrada": "154217",
+        "cdMaterial": "3029011",
+        "dsDescricaoAbreviada": "Microfone de vedo  vd-2 p/smartphones,dslr,filmadora,gravadores de audio e pc",
+        "qtItemEntrada": "1",
+        "vlUnitario": 135.0,
+        "vlTotal": 135.0
+      },
+      {
+        "idItemEntrada": "154218",
+        "cdMaterial": "3029012",
+        "dsDescricaoAbreviada": "Microfone vedolap vd 2 c/adap lightwing para samrtphones, tablets,ipad e iphone",
+        "qtItemEntrada": "1",
+        "vlUnitario": 159.9,
+        "vlTotal": 159.9
+      },
+      {
+        "idItemEntrada": "154219",
+        "cdMaterial": "3029013",
+        "dsDescricaoAbreviada": "Cartão de memória sdxc. 064 g, gn3mn, 64gb",
+        "qtItemEntrada": "6",
+        "vlUnitario": 129.0,
+        "vlTotal": 774.0
+      }
+    ]
+  },
+  {
+    "idEntrada": "7555",
+    "nmProcesso": "1487",
+    "cdCNPJ": "10948040/0001-13",
+    "dsNomeFantasia": "G 5 COM DE MADEIRAS LTDA",
+    "vlTotal": 69.37,
+    "nmEmpenho": "125",
+    "nmAnoEmpenho": "2022",
+    "nmAnoProcesso": "2022",
+    "dtEntrada": 1647572400000,
+    "dtNotaFiscal": 1644807600000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154385",
+        "cdMaterial": "3024480",
+        "dsDescricaoAbreviada": "PULSADOR MAGNÉTICO LEO",
+        "qtItemEntrada": "10",
+        "vlUnitario": 5.08,
+        "vlTotal": 50.8
+      },
+      {
+        "idItemEntrada": "154386",
+        "cdMaterial": "3024481",
+        "dsDescricaoAbreviada": "FECHADURA P/VITRINE NIQ 140 FGV",
+        "qtItemEntrada": "1",
+        "vlUnitario": 18.57,
+        "vlTotal": 18.57
+      }
+    ]
+  },
+  {
+    "idEntrada": "7556",
+    "nmProcesso": "1487",
+    "cdCNPJ": "09534458/0001-03",
+    "dsNomeFantasia": "REUNIDAS  MATERIAL",
+    "vlTotal": 70.95,
+    "nmEmpenho": "125",
+    "nmAnoEmpenho": "2022",
+    "nmAnoProcesso": "2022",
+    "dtEntrada": 1647572400000,
+    "dtNotaFiscal": 1644980400000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154387",
+        "cdMaterial": "3024482",
+        "dsDescricaoAbreviada": "CADEADO LT-E-45MM PADO",
+        "qtItemEntrada": "1",
+        "vlUnitario": 41.59,
+        "vlTotal": 41.59
+      },
+      {
+        "idItemEntrada": "154388",
+        "cdMaterial": "3024483",
+        "dsDescricaoAbreviada": "CADEADO LT-E-35MM PADO",
+        "qtItemEntrada": "1",
+        "vlUnitario": 29.36,
+        "vlTotal": 29.36
+      }
+    ]
+  },
+  {
+    "idEntrada": "7557",
+    "nmProcesso": "1487",
+    "cdCNPJ": "05798946/0001-69",
+    "dsNomeFantasia": "COMERCIAL DE FERRAGENS SANTA TEREZINHA LTDA - EPP",
+    "vlTotal": 315.06,
+    "nmEmpenho": "125",
+    "nmAnoEmpenho": "2022",
+    "nmAnoProcesso": "2022",
+    "dtEntrada": 1647831600000,
+    "dtNotaFiscal": 1645412400000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154389",
+        "cdMaterial": "3024484",
+        "dsDescricaoAbreviada": "FITA DEMARCAÇÃO SOLO",
+        "qtItemEntrada": "5",
+        "vlUnitario": 39.8,
+        "vlTotal": 199.0
+      },
+      {
+        "idItemEntrada": "154390",
+        "cdMaterial": "3024485",
+        "dsDescricaoAbreviada": "ARAME PLASTIFICADO",
+        "qtItemEntrada": "1",
+        "vlUnitario": 37.88,
+        "vlTotal": 37.88
+      },
+      {
+        "idItemEntrada": "154391",
+        "cdMaterial": "3024486",
+        "dsDescricaoAbreviada": "REBITE ALK-316 UND (50)",
+        "qtItemEntrada": "50",
+        "vlUnitario": 0.12,
+        "vlTotal": 6.0
+      },
+      {
+        "idItemEntrada": "154392",
+        "cdMaterial": "3026278",
+        "dsDescricaoAbreviada": "DISJUNTOR UNIPOLAR 32A",
+        "qtItemEntrada": "1",
+        "vlUnitario": 12.4,
+        "vlTotal": 12.4
+      },
+      {
+        "idItemEntrada": "154393",
+        "cdMaterial": "3026279",
+        "dsDescricaoAbreviada": "PIAL PRACTIBOX S 04 DIN",
+        "qtItemEntrada": "1",
+        "vlUnitario": 21.27,
+        "vlTotal": 21.27
+      },
+      {
+        "idItemEntrada": "154394",
+        "cdMaterial": "3024508",
+        "dsDescricaoAbreviada": "PVC DUCHA HIGIÊNICA VIT",
+        "qtItemEntrada": "1",
+        "vlUnitario": 38.51,
+        "vlTotal": 38.51
+      }
+    ]
+  },
+  {
+    "idEntrada": "7558",
+    "nmProcesso": "1487",
+    "cdCNPJ": "08328949/0001-27",
+    "dsNomeFantasia": "CASA DO BORRACHEIRO",
+    "vlTotal": 215.0,
+    "nmEmpenho": "125",
+    "nmAnoEmpenho": "2022",
+    "nmAnoProcesso": "2022",
+    "dtEntrada": 1647831600000,
+    "dtNotaFiscal": 1645412400000,
+    "nuAno": "2022",
+    "nuMes": "2",
+    "listaComprasItemConsumo": [
+      {
+        "idItemEntrada": "154395",
+        "cdMaterial": "3024488",
+        "dsDescricaoAbreviada": "PNEU 2.50-4 280-4",
+        "qtItemEntrada": "1",
+        "vlUnitario": 45.0,
+        "vlTotal": 45.0
+      },
+      {
+        "idItemEntrada": "154396",
+        "cdMaterial": "3024489",
+        "dsDescricaoAbreviada": "CAMARA DE AR 2.5-4 AJ AX",
+        "qtItemEntrada": "1",
+        "vlUnitario": 35.0,
+        "vlTotal": 35.0
+      },
+      {
+        "idItemEntrada": "154397",
+        "cdMaterial": "3024490",
+        "dsDescricaoAbreviada": "PNEU U 3.5-8 2 LONAS B N",
+        "qtItemEntrada": "1",
+        "vlUnitario": 100.0,
+        "vlTotal": 100.0
+      }
+    ]
+  }
+]

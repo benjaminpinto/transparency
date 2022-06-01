@@ -1,0 +1,11 @@
+[
+  { "id": 1, "descricao": "Convite" },
+  { "id": 2, "descricao": "Tomada de preços" },
+  { "id": 3, "descricao": "Concurso" },
+  { "id": 4, "descricao": "Pregão" },
+  { "id": 5, "descricao": "Leilão" },
+  { "id": 6, "descricao": "Concorrência" },
+  { "id": 7, "descricao": "Pregão Eletrônico" },
+  { "id": 8, "descricao": "Pregão Presencial" },
+  { "id": 9, "descricao": "Habilitação e Seleção" }
+]

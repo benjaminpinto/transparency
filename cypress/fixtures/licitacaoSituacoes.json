@@ -1,0 +1,9 @@
+[
+  { "id": 1, "descricao": "Homologada" },
+  { "id": 2, "descricao": "Aberta" },
+  { "id": 3, "descricao": "Concluída" },
+  { "id": 4, "descricao": "Adiada" },
+  { "id": 5, "descricao": "Revogada" },
+  { "id": 6, "descricao": "Anulada" },
+  { "id": 7, "descricao": "Suspensa" }
+]

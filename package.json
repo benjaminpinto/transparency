@@ -1,0 +1,27 @@
+{
+  "name": "transparency",
+  "version": "1.0.0",
+  "description": "Cypress API and E2E tests at TRT13's Transparency application",
+  "author": "Benjamin Pinto",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run",
+    "report": "npm run scripts || npm run posttest",
+    "clean:reports": "if exist cypress\\reports rmdir /S /Q cypress\\reports",
+    "prereport": "npm run clean:reports",
+    "scripts": "cypress run --reporter mochawesome",
+    "combine-reports": "mochawesome-merge cypress/reports/*.json > report.json",
+    "generate-report": "marge report.json -f report -o cypress/reports && del report.json",
+    "postreport": "npm run combine-reports && npm run generate-report"
+  },
+  "keywords": [
+    "cypress"
+  ]
+}

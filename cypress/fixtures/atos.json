@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1535,
+        "anoProtocolo": "2022",
+        "nuProtocoloTrt": "963",
+        "anoDoAto": "2022",
+        "valor": 1.0,
+        "dtPublicacaoDou": 1653793200000,
+        "empresa": null,
+        "tipoAto": "INEXIGIBILIDADE",
+        "cpfCnpj": "03450439448",
+        "contratados": [
+            {
+                "id": 2382,
+                "contratado": "contratado",
+                "cpfCnpj": "03450439448",
+                "valorEstimado": 1.0
+            }
+        ],
+        "objeto": "teste5",
+        "fundamento": "fundamento"
+    },
+    {
+        "id": 1592,
+        "anoProtocolo": "2022",
+        "nuProtocoloTrt": "928",
+        "anoDoAto": "2022",
+        "valor": 2000.0,
+        "dtPublicacaoDou": null,
+        "empresa": null,
+        "tipoAto": "INEXIGIBILIDADE",
+        "cpfCnpj": "0345043944803450439448",
+        "contratados": [
+            {
+                "id": 99,
+                "contratado": "123",
+                "cpfCnpj": "03450439448",
+                "valorEstimado": 2000.0
+            },
+            {
+                "id": 100,
+                "contratado": "1",
+                "cpfCnpj": "03450439448",
+                "valorEstimado": 100000.0
+            }
+        ],
+        "objeto": "obj928",
+        "fundamento": "fund928"
+    },
+    {
+        "id": 1589,
+        "anoProtocolo": "2022",
+        "nuProtocoloTrt": "926",
+        "anoDoAto": "2022",
+        "valor": 1.0,
+        "dtPublicacaoDou": null,
+        "empresa": null,
+        "tipoAto": "INEXIGIBILIDADE",
+        "cpfCnpj": "03450439448",
+        "contratados": [
+            {
+                "id": 92,
+                "contratado": "1",
+                "cpfCnpj": "03450439448",
+                "valorEstimado": 1.0
+            }
+        ],
+        "objeto": "obj926",
+        "fundamento": "null"
+    }
+]

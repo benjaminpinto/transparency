@@ -1,0 +1,57 @@
+[
+  {
+    "id": 620,
+    "cpfServidor": "***519314**",
+    "nomeServidor": "PERICLES COSTA MATIAS",
+    "finalidade": "AQUISIÇÃO DE MATERIAL ELÉTRICO E DE MANUTENÇÃO DE BENS IMÓVEIS DAS VARAS E SEDE DO TRT.",
+    "numProcesso": 1487,
+    "anoProcesso": 2022,
+    "dtConcessao": 1644289200000,
+    "limite": 1600.0,
+    "aplicado": 1570.63
+  },
+  {
+    "id": 640,
+    "cpfServidor": "***426584**",
+    "nomeServidor": "JOSÉ CORREIA DE A. JUNIOR",
+    "finalidade": "AQUISIÇÃO DE MATERIAL DE INSTALAÇÕES E ELÉTRICO PARA MANUTENÇÃO DO FÓRUM DA CAPITAL.",
+    "numProcesso": 2087,
+    "anoProcesso": 2022,
+    "dtConcessao": 1645498800000,
+    "limite": 1246.51,
+    "aplicado": 1246.51
+  },
+  {
+    "id": 641,
+    "cpfServidor": "***519314**",
+    "nomeServidor": "PÉRICLES COSTA MATIAS",
+    "finalidade": "AQUISIÇÃO DE MATERIAL DE INSTALAÇÕES E ELÉTRICO PARA MANUTENÇÃO DE PRÉDIOS (VARAS) PERTENCENTES AO TRT13.",
+    "numProcesso": 3539,
+    "anoProcesso": 2022,
+    "dtConcessao": 1648522800000,
+    "limite": 1600.0,
+    "aplicado": 1597.4
+  },
+  {
+    "id": 660,
+    "cpfServidor": "***693274**",
+    "nomeServidor": "GIOVANNI S. MAIOR LOMBARDI",
+    "finalidade": "AQUISIÇÃO DE MATERIAL DE INSTALAÇÕES E ELÉTRICO PARA MANUTENÇÃO DE IMÓVEIS DO ÓRGÃO.",
+    "numProcesso": 1572,
+    "anoProcesso": 2022,
+    "dtConcessao": 1644289200000,
+    "limite": 1600.0,
+    "aplicado": 1597.9
+  },
+  {
+    "id": 680,
+    "cpfServidor": "***519314**",
+    "nomeServidor": "PERICLES COSTA MATIAS",
+    "finalidade": "AQUISIÇÃO DE MATERIAL ELÉTRICO E DE MANUTENÇÃO DE BENS IMÓVEIS DAS VARAS E SEDE DO TRT.",
+    "numProcesso": 4052,
+    "anoProcesso": 2022,
+    "dtConcessao": 1650337200000,
+    "limite": 1600.0,
+    "aplicado": 1577.82
+  }
+]
